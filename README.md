@@ -9,7 +9,7 @@ This plugin has no visual display, it goes on behind the scenes.
 ```
 fields: [
   {
-    name: '_createdBy',
+    name: 'createdBy',
     type: 'createdBy',
     title: 'Created By'
   }
