@@ -6,6 +6,13 @@ _NOTE: If adding to existing document, the user of the first person who accesses
 
 This plugin has no visual display, it goes on behind the scenes.
 
+To install, in the root of the Sanity Studio in the terminal:
+
+```
+sanity install created-by
+```
+
+Schema example:
 ```
 fields: [
   {
