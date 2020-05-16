@@ -1,6 +1,6 @@
 {
   "name": "sanity-plugin-created-by",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Stores the user ID of the current user in. Nothing is displayed",
   "main": "lib/index.js",
   "scripts": {
@@ -13,21 +13,20 @@
   },
   "keywords": [
     "sanity",
-    "options",
-    "visual",
-    "display",
-    "sanityio",
+    "created",
+    "created by",
+    "author",
+    "user",
     "plugin",
     "plugins",
-    "sanity.io",
-    "list"
+    "sanity.io"
   ],
   "author": "Nick Taylor",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nicktaylor/sanity-plugin-created-by/issues"
   },
-  "homepage": "https://github.com/nicktaylor/sanity-plugin-visual-options#readme",
+  "homepage": "https://github.com/nicktaylor/sanity-plugin-created-by#readme",
   "peerDependencies": {
     "@sanity/base": "^1.149.10",
     "@sanity/components": "^1.149.10",
